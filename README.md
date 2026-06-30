@@ -170,7 +170,7 @@ A Java-based academic project for managing student data.
 ### 🎮 Tic-Tac-Toe Game
 A classic two-player Android game.  
 **Features:** Win detection · Score tracking · Restart functionality · Clean UI  
-**Stack:** Android Studio, Java
+**Stack:** Android Studio, Java 
 
 ---
 
